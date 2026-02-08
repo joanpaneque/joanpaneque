@@ -21,8 +21,8 @@ Trabajo en la intersección entre tecnología, negocio e innovación, transforma
 ## 🏆 Logros destacados
 
 - ✅ Más de 6 proyectos de IA en producción con impacto medible  
-- 🏥 Reducción de más de 300 horas anuales en listas de espera quirúrgicas (Hospital Trueta)  
-- 🎙️ Motor TTS con calidad comparable a ElevenLabs, reduciendo costes en un 80%  
+- 🏥 Reducción de más de 3000 horas anuales en listas de espera quirúrgicas (Hospital Trueta)  
+- 🎙️ Motor TTS con calidad comparable a ElevenLabs (valorada en $300 millones), reduciendo costes en un 80%  
 - 📈 Más de 10.000 usuarios en 45 días en productos propios  
 - 🔐 Prevención de sanciones regulatorias de hasta 3M€ mediante rediseño de seguridad  
 - 🥇 Múltiples premios a la excelencia académica e innovación tecnológica  
