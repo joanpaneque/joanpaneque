@@ -126,7 +126,7 @@ Si tienes una idea ambiciosa, hablemos.
 ## 📫 Contacto
 
 - 🌐 Web: https://joanpaneque.com  
-- 💼 LinkedIn: [(añade tu enlace) ](https://www.linkedin.com/in/joan-paneque-domingo/) 
+- 💼 LinkedIn: [Joan Paneque Domingo ](https://www.linkedin.com/in/joan-paneque-domingo/) 
 - ✉️ Email: hola@joanpaneque.com
 
 ---
